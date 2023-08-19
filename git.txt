@@ -1,0 +1,11 @@
+作業開始前
+git checkout -b branch名
+
+作業終了後
+git add .
+git status（確認）
+git commit -m "メッセージ"
+git push -u origin HEAD
+git checkout main
+git merge -
+git push origin HEAD
